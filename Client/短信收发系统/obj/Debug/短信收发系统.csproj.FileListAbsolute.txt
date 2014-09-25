@@ -1,0 +1,13 @@
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.exe.config
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.exe
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.pdb
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.csprojResolveAssemblyReference.cache
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\MainWindow.baml
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\MainWindow.g.cs
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\App.g.cs
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.g.resources
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.csproj.GenerateResource.Cache
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.exe
+c:\users\pple\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.pdb

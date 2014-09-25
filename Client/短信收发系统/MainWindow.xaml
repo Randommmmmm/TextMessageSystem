@@ -1,0 +1,96 @@
+﻿<Window x:Class="短信收发系统.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Icon="image\apple.ico" Height="710" Width="342" WindowStartupLocation="CenterScreen" AllowsTransparency="True" Background="Transparent" WindowStyle="None" ResizeMode="NoResize">
+    <Window.Resources>
+        <RoutedUICommand x:Key="SendMessage" Text="Send Message"/>
+        <RoutedUICommand x:Key="Search" Text="SearchKeyWord"/>
+    </Window.Resources>
+    <Window.InputBindings>
+        <KeyBinding Gesture="Enter" Command="{StaticResource SendMessage}"/>
+        <KeyBinding Gesture="Ctrl + Enter" Command="{StaticResource Search}"/>
+    </Window.InputBindings>
+    <Window.CommandBindings>
+        <CommandBinding Command="{StaticResource SendMessage}" CanExecute="Send_CanExecute" Executed="Send_Executed"/>
+        <CommandBinding Command="{StaticResource Search}" CanExecute="Search_CanExecute" Executed="Search_Executed"/>
+    </Window.CommandBindings>
+    <Grid Name="grid">
+        <Grid.Background>
+            <ImageBrush ImageSource="image\5_black.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="16*" />
+            <ColumnDefinition Width="142*" />
+            <ColumnDefinition Width="16*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="107"/>
+            <RowDefinition Height="56" />
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="403" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid Name="gridHead" Grid.Row="1" Grid.Column="1">
+            <Grid.Background>
+                <ImageBrush ImageSource="image\main\head.png" />
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Image Name="imgEdit" Source="image\main\edit.png" Grid.Column="0" Height="17" Margin="0,18,45,0" Cursor="Hand" MouseLeftButtonDown="Edit_delete"/>
+            <Image Name="imgEditCancel" Grid.Column="0" Height="17" Margin="0,18,45,0" Cursor="Hand" MouseLeftButtonDown="Edit_delete_Cancel" />
+            <Image Name="imgShowMsg" Source="image\show\msg.png" Grid.Column="0" Height="17" Margin="0,18,45,0" Cursor="Hand" MouseLeftButtonDown="ReturnContact"/>
+            <Image Name="imgMsg" Source="image\main\msg.png" Grid.Column="1" Height="16" Margin="0,15,0,0"/>
+            <Image Name="imgCancel" Source="image\new\cancel.png" Grid.Column="2" Height="17" Margin="45,18,0,0" Cursor="Hand" MouseLeftButtonDown="imgCancel_MouseLeftButtonUp"/>
+            <Image Name="imgNew" Source="image\main\new_msg.png" Grid.Column="2" Height="25" Margin="45, 18, 0, 0" MouseLeftButtonDown="imgNew_MouseLeftButtonUp"  Cursor="Hand"/>
+            <Image Name="imgClock" Source="image\show\time_send.png" Grid.Column="2" Height="25" Margin="45, 18, 0, 0" Cursor="Hand" MouseLeftButtonDown="imgTiming_MouseLeftButtonUp"/>
+
+            <Image Name="imgDel" Source="image\delete.png" Grid.Column="0" Height="25" Cursor="Hand" Margin="0,18,45,0" MouseLeftButtonDown="DelConfirm"  />
+            <Image Name="imgDelCancel" Source="image\new\cancel.png" Grid.Column="2" Height="17" Margin="45,18,0,0" Cursor="Hand" MouseLeftButtonDown="DelCancel" />
+            <Image Name="imgEdit_Del" Source="image\delete.png" Grid.Column="0" Height="25" Cursor="Hand" Margin="0,18,45,0" MouseLeftButtonDown="Edit_delete_Confirm"/>
+            <Image Name="imgEdit_DelCancel" Source="image\new\cancel.png" Grid.Column="2" Height="17" Margin="45,18,0,0" Cursor="Hand" MouseLeftButtonDown="Edit_delete_Cancel"/>
+        </Grid>
+        
+        <Image Name="imgBlank" Source="image\blank.png" Grid.ColumnSpan="3" MouseLeftButtonDown="imgBlank_MouseLeftButtonDown" />
+        <Image Name="imgAddress" Source="image\new\address.png" Grid.Row="2" Grid.Column="1" Stretch="Fill"/>
+        <Image Name="imgSearch" Source="image\main\search.png" Grid.Row="2" Grid.Column="1" Stretch="Fill"/>
+        <Image Source="image\main\bg.png" Grid.Row="3" Grid.Column="1" Stretch="Fill"/>
+        <Image Name="imgInput" Source="image\new\input.png" Grid.Row="3" Grid.Column="1" Margin="0,0,0,13"/>
+        <Image Name="imgAB" Source="image\new\alphabeta.png" Grid.Row="3" Grid.Column="1" VerticalAlignment="Bottom"/>
+        <Image Name="imgShowInput" Source="image\new\input.png" Grid.Row="3" Grid.Column="1" VerticalAlignment="Bottom" />
+        <Image Name="imgExit" Source="image\blank.png" Grid.Row="4" Grid.Column="1" MouseLeftButtonDown="imgExit_MouseLeftButtonDown"/>
+        <Image Name="imgTiming" Source="image\show\time_send.png" Grid.Row="2" Grid.Column="1" Width="27" Cursor="Hand" HorizontalAlignment="Right" Margin="0,0,10,0" MouseLeftButtonUp="imgTiming_MouseLeftButtonUp"/>
+
+        <ListBox Name="listMsg" Grid.Column="1" Grid.Row="3" Height="403" Width="278" BorderThickness="0" VerticalAlignment="Top"/>
+        <ListBox Name="listDig" Grid.Column="1" Grid.Row="2" Grid.RowSpan="2" Height="400" Width="278" BorderThickness="0"  VerticalAlignment="Top" MouseDoubleClick="DelDialog"   SelectionMode="Multiple" IsSynchronizedWithCurrentItem="False" />
+        <ListBox Name="listContract" Grid.Column="1" Grid.Row="3" Height="403" Width="278" BorderThickness="0" MouseLeftButtonUp="ShowMsg"  SelectionMode="Multiple" />
+        <Image Name="imgSend" Source="image\send.png" Grid.Row="3" Grid.Column="1" Width="36" Height="20" Margin="235,170,0,187" Cursor="Hand" MouseLeftButtonUp="imgSend_MouseLeftButtonUp"/>
+
+        <TextBox Name="txtSearch" BorderThickness="0" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="259" Grid.Column="1" Margin="10,10,0,0" Grid.Row="2" TextChanged="txtSearch_TextChanged" >
+            <TextBox.Resources>
+                <VisualBrush x:Key="HelpBrush" TileMode="None" Opacity="0.3" Stretch="None" AlignmentX="Left">
+                </VisualBrush>
+            </TextBox.Resources>
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Style.Triggers>
+                        <Trigger Property="Text" Value="{x:Null}">
+                            <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                        </Trigger>
+                        <Trigger Property="Text" Value="">
+                            <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+        <TextBox Name="txtAddress" BorderThickness="0" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" Grid.Column="1" Margin="60,10,0,0" Background="Transparent" Grid.Row="2" />
+        <TextBox Name="txtMsg" BorderThickness="0" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Grid.Column="1" Margin="37,185,0,0" Background="Transparent" Grid.Row="3" TextChanged="txtMsg_TextChanged" />
+        <TextBox Name="txtName" BorderThickness="0" Grid.Row="1" Grid.Column="1" Height="20" Width="100" Margin="0,14,0,0" Background="Transparent" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"  IsReadOnly="True"/>
+        <TextBox Name="txtInput" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Width="208" Grid.Column="1" Margin="37,370,0,0" Grid.Row="3" TextChanged="txtMsg_TextChanged" />
+        <Border BorderThickness="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

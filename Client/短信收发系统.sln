@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "短信收发系统客户端", "短信收发系统\短信收发系统客户端.csproj", "{DDAE18E9-12B7-4B66-9D30-3A93C23F9A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAE18E9-12B7-4B66-9D30-3A93C23F9A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAE18E9-12B7-4B66-9D30-3A93C23F9A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAE18E9-12B7-4B66-9D30-3A93C23F9A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAE18E9-12B7-4B66-9D30-3A93C23F9A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

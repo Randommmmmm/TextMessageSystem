@@ -1,0 +1,86 @@
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.exe.config
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.exe
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.pdb
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.exe
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\bin\Debug\短信收发系统.pdb
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\MainWindow.baml
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\MainWindow.g.cs
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\App.g.cs
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.g.resources
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统客户端.csproj.GenerateResource.Cache
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\SetTiming.baml
+C:\Users\PPLE\documents\visual studio 2012\Projects\短信收发系统\短信收发系统\obj\Debug\SetTiming.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.exe.config
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.exe
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.pdb
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.exe
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.pdb
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\MainWindow.baml
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\SetTiming.baml
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\MainWindow.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\SetTiming.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\App.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.g.resources
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+F:\1.大学\软件工程实践\项目\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统客户端.csproj.GenerateResource.Cache
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.exe.config
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.exe
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.pdb
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.exe
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\bin\Debug\短信收发系统.pdb
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\MainWindow.baml
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\SetTiming.baml
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\MainWindow.g.cs
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\SetTiming.g.cs
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\App.g.cs
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.g.resources
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+C:\Users\威强\Desktop\短信收发系统_终版\短信收发系统\obj\Debug\短信收发系统客户端.csproj.GenerateResource.Cache
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\bin\Debug\短信收发系统.exe.config
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.exe
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.pdb
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\MainWindow.baml
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\SetTiming.baml
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\MainWindow.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\SetTiming.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\App.g.cs
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+F:\1.大学\软件工程实践\项目\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.g.resources
+F:\短信收发系统_真的最后一版\短信收发系统\bin\Debug\短信收发系统.exe.config
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.exe
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.pdb
+F:\短信收发系统_真的最后一版\短信收发系统\bin\Debug\短信收发系统.exe
+F:\短信收发系统_真的最后一版\短信收发系统\bin\Debug\短信收发系统.pdb
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\MainWindow.baml
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\SetTiming.baml
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\MainWindow.g.cs
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\SetTiming.g.cs
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\App.g.cs
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.g.resources
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+F:\短信收发系统_真的最后一版\短信收发系统\obj\Debug\短信收发系统客户端.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\bin\Debug\短信收发系统.exe.config
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统.exe
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统.pdb
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\bin\Debug\短信收发系统.exe
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\bin\Debug\短信收发系统.pdb
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统客户端.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\MainWindow.baml
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\SetTiming.baml
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\MainWindow.g.cs
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\SetTiming.g.cs
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\App.g.cs
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统_MarkupCompile.cache
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统.g.resources
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统.Properties.Resources.resources
+\\psf\Home\Documents\Git\TextMessageSystem\Client\短信收发系统\obj\Debug\短信收发系统客户端.csproj.GenerateResource.Cache

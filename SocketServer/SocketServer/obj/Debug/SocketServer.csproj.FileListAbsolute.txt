@@ -1,0 +1,24 @@
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+c:\users\pple\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\辰\Documents\Tencent Files\1224504957\FileRecv\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+F:\1.大学\软件工程实践\项目\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\TextMessageSystem\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+F:\TextMessageSystem\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+F:\TextMessageSystem\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+F:\TextMessageSystem\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+F:\TextMessageSystem\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+F:\TextMessageSystem\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
